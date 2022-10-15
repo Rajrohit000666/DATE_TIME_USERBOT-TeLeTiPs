@@ -1,6 +1,6 @@
 #Copyright ©️ 2021 TeLe TiPs. All Rights Reserved
 #You are free to use this code in any of your project, but you MUST include the following in your README.md (Copy & paste)
-# ##Credits - [DATE_TIME Telegram userbot by TeLe TiPs] (https://github.com/teletips/DATE_TIME_USERBOT-TeLeTiPs)
+# ##Credits - [DATE_TIME Telegram userbot by TeLe TiPs] (https://github.com/Rajrohit000666/DATE_TIME_USERBOT-TeLeTiPs)
 
 # Changing the code is not allowed! Read GNU AFFERO GENERAL PUBLIC LICENSE: https://github.com/teletips/DATE_TIME_USERBOT-TeLeTiPs/blob/main/LICENSE
 
@@ -55,4 +55,4 @@ print("DATE TIME USERBOT IS ALIVE!")
 asyncio.ensure_future(main_teletips())
 Date_Time_Userbot_teletips.run()
 
-#Copyright ©️ 2021 TeLe TiPs. All Rights Reserved
+#Copyright ©️ 2021 𝗖𝘂𝘁𝗲 𝗴𝗶𝗿𝗹 𝗥𝗮𝗻𝗶 𓃦. All Rights Reserved
